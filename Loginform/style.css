@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    display:flex;
+    width:100%;
+    height:100%;
+    justify-content:center;
+    margin:120px auto;
+}.inp{
+    padding:20px;
+    margin:20px;
+}
+.lab{
+    padding:20px;
+    margin:20px;
+}
+button{
+    margin:5px;
+    padding:5px;
+    background:lightblue;
+}
